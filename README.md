@@ -1,4 +1,13 @@
 # Emotional State Visualization
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![Python Libraries](https://img.shields.io/badge/Libraries-Matplotlib%20%26%20NumPy-lightcyan.svg)
+![License](https://img.shields.io/badge/License-Custom-brightgreen.svg)
+![Recreational Project](https://img.shields.io/badge/Project-Recreational-orange.svg)
+![Midnight](https://img.shields.io/badge/Time-Midnight-black.svg)
+![Open Source](https://img.shields.io/badge/Type-Open_Source-brightblue.svg)
+
+![Emotional State Visualization](https://via.placeholder.com/800x200?text=Emotional+State+Visualization)
+
 This repository contains a Python script that visualizes emotional states using pie and bar charts. It provides a graphical representation of various emotions and their respective percentages, helping users gain insights into their current emotional well-being. By utilizing visual data representation, the script aims to foster self-awareness and understanding of one's emotional landscape.
 
 ## Features
